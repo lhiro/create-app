@@ -1,0 +1,103 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "taro",
+  "description": "",
+  "appid": "",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": false,
+    "coverView": true,
+    "nodeModules": true,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "bundle": true,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true
+  },
+  "compileType": "miniprogram",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "libVersion": "2.14.4",
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/channels/detail/index",
+          "pathName": "pages/channels/detail/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/channels/index",
+          "pathName": "pages/channels/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/me/index",
+          "pathName": "pages/me/index",
+          "query": "id=123878&avatar=https://wx.qlogo.cn/finderhead/Q3auHgzwzM5pmrlAaVMkJSMNqJgnpeT1aqo4FUA4ptNt7vAMkLQIOw/0&nickname=Hiro",
+          "scene": null
+        },
+        {
+          "name": "pages/channels/schedule/index",
+          "pathName": "pages/channels/schedule/index",
+          "query": "id=123878",
+          "scene": null
+        },
+        {
+          "name": "pages/weijian/index",
+          "pathName": "pages/weijian/index",
+          "query": "id=123878",
+          "scene": null
+        },
+        {
+          "name": "pages/account/index",
+          "pathName": "pages/account/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/index",
+          "pathName": "pages/home/index",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

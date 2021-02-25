@@ -1,0 +1,24 @@
+.table {
+  width: 100%;
+  display: table;
+  .head {
+    display: table-header-group;
+    background: #F9F8F9;
+  }
+  .body {
+    display: table-row-group;
+  }
+  .row {
+    display: table-row;
+    &:nth-child(2n) {
+      background: #F9F8F9;
+    };
+  }
+  .item {
+    padding: 30px 20px;
+    display: table-cell;
+    font-size: 25px;
+    color: #BEC1C4;
+    text-align: center;
+  }
+}
