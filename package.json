@@ -1,6 +1,6 @@
 {
-  "name": "create-app",
-  "version": "0.0.1",
+  "name": "create-happ",
+  "version": "1.0.1",
   "description": "create myself app",
   "main": "lib/cli.js",
   "bin": {
