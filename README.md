@@ -16,12 +16,12 @@ A tool for creating you application. Currently supported template presets includ
 #### npm
 > Compatibility Note: Node.js version >= 12.0.0.
 ```
-  npm init @lhiro/create-happ
+  npm init @lhiro/app
 ```
 
 #### yarn
 ```
-  yarn create @lhiro/create-happ
+  yarn create @lhiro/app
 ```
 After creating a template, run:
 ```
