@@ -34,6 +34,7 @@ if (!template) {
     choices: [
       { name: chalk.green('SSR-React-Midway'), value: 'ssr-react-midway' },
       { name: chalk.green('Midway'), value: 'midway'},
+      { name: chalk.green('Koa'), value: 'koa'},
       { name: chalk.blue('Umi'), value: 'umi' },
       { name: chalk.blue('Taro'), value: 'taro' },
       { name: chalk.blue('Flutter'), value: 'flutter' },

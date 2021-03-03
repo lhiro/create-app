@@ -4,6 +4,7 @@
 
 A tool for creating you application. Currently supported template presets include:
 - ```ssr-react-midway```
+- ```koa```
 - ```midway```
 - ```umi```
 - ```taro```
